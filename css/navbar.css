@@ -1,0 +1,24 @@
+.navbar {
+  background: linear-gradient(
+    to right,
+    #0e1a07 10%,
+    #153e0f 30%,
+    #1f5500 50%,
+    #569126 85%,
+    #a1d692 100%
+  );
+  width: 100%;
+  height: 8vh;
+}
+
+#logo {
+  color: white;
+}
+
+.navbar-toggler {
+  color: black;
+}
+
+.nav-link {
+  color: white;
+}

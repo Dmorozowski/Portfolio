@@ -1,0 +1,31 @@
+.footer {
+  height: 4.5em;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background: linear-gradient(
+    to right,
+    #0e1a07 10%,
+    #153e0f 30%,
+    #1f5500 50%,
+    #569126 85%,
+    #a1d692 100%
+  );
+  top: 2em;
+}
+.logos {
+  position: relative;
+  float: right;
+  top: -2.5em;
+  right: 2em;
+}
+
+#footerText {
+  position: relative;
+  font-size: 1.5em;
+  color: white;
+  top: 0.5em;
+}
+
+#instagram {
+}

@@ -1,0 +1,12 @@
+.imgAllDevices {
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
+  border: none;
+  display: flex;
+  padding: 5px 0;
+}
+
+/* Use display:flex in the parent box of the images and text */
+/* media queries check for the size of the device */
+/* Use % and vw/vh as much as possible */

@@ -1,0 +1,15 @@
+#myPhoto {
+  height: 500px;
+  width: 500px;
+  max-width: 100%;
+  position: relative;
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px 2px #1c8d00;
+  top: -2em;
+  display: block;
+}
+
+#aboutMeText {
+  display: block;
+  max-width: 100%;
+}

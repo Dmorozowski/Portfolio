@@ -1,0 +1,25 @@
+.jumbotron {
+  height: 90vh;
+  background: url("../assets/succulents.jpeg") center;
+  border-radius: 0;
+  background-size: cover;
+  color: white;
+}
+
+.display-4 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 200;
+  text-shadow: 2.5px 2.5px #1c8d00;
+  position: relative;
+  text-align: center;
+  top: 20vh;
+}
+
+.lead {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 400;
+  text-shadow: 1.5px 1.5px #1c8d00;
+  position: relative;
+  text-align: center;
+  top: 20.5vh;
+}
